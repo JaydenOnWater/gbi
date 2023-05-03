@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to GamerBoyInd Texture Pack!" />
         <p className="description">
-          Made bY <code>YouTube/@JaydenOnFire</code>
+          Made by <code>YouTube/@JaydenOnFire</code>
         </p>
       </main>
 
